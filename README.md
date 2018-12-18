@@ -6,7 +6,7 @@ A highly scalable, Progressive Web Application foundation,boilerplate, with the 
 ### Quick Start
 Clone the repository:
 ```bash
-git clone  && cd react-pwa 
+git clone  && cd React-PWA 
 ```
 
 
